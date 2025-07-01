@@ -57,7 +57,7 @@ def calculate_irr(df):
     except (RuntimeError, OverflowError):
         return None
 # ---------- Streamlit App ----------
-st.title("📈 Alternative Investment Performance Analyzer")
+st.title("📈 Private Markets Performance Analyzer")
 
 uploaded_file = st.file_uploader("Upload a cash flow CSV file", type="csv")
 
