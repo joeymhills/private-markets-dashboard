@@ -20,3 +20,24 @@ Date,Type,Amount
 2020-12-31,Distribution,25000
 2022-12-31,NAV,325000
 ```
+
+## Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/joeymhills/private-markets-dashboard.git
+cd private-markets-dashboard
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install streamlit pandas numpy scipy
+```
+
+### 3. Run the App
+
+```bash
+streamlit run main.py
+```
