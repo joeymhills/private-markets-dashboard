@@ -2,6 +2,8 @@
 
 This is a lightweight Streamlit app that calculates and visualizes performance metrics (MOIC, IRR) for alternative investments like private equity and hedge funds based on user-uploaded cash flow data.
 
+![streamlitsc](https://github.com/user-attachments/assets/1d1071a1-816d-4074-9a41-519f521e3472)
+
 ## Features
 
 - Upload a CSV of capital calls, distributions, and NAVs
